@@ -1,0 +1,130 @@
+@media screen and (min-width: 1025px){
+  
+}
+@media screen and (min-width: 769px) and (max-width: 991px){
+	#header h3{
+		font-size: 22px;
+		line-height: 31px;
+		text-align: center;
+		padding: 0;
+	}
+	.btn-res{
+		padding: 7px;
+		font-size: 11px;
+		border-radius: 0;
+	}
+}
+@media screen and (width: 1024px){
+  
+}
+@media screen and (max-width: 768px){
+ 	#header h3{
+	    font-size: 23px;
+	    line-height: 37px;
+	    text-align: center;
+		padding: 0;
+		/*padding: 0px 62px;*/
+
+	}
+	.btn-res{
+		padding: 7px;
+	    font-size: 11px;
+	    border-radius: 0;
+	}
+	#main {
+	    margin-top: 180px;
+	}
+	#timkiem{
+		padding: 10px 0px;
+	}
+	#timkiem .col-md-12{
+		padding: -2px;
+	}
+	.p-d-0, .sv1, #nd-trangchu1, #dmnt, #header, .title-h{
+		padding: 0;
+	}
+	.tieude-h2cc{
+		font-size: 24px;
+	    margin: 0;
+	    border: 1px dotted #ccc;
+	    padding: 8px;
+	    border-left: 5px solid #6dccc8;
+	}
+	.tieude-rom{
+		font-size: 18px;
+	}
+	.title-p-ct{
+		font-size: 10px;
+	}
+	.content #col-content{
+		padding: 10px;
+	}
+	.nd-mt{
+		padding: 1em;
+	}
+	.title-mota-ch{
+		padding: 10px 15px;
+	}
+	.chunho-ft{
+		font-size: 14px;
+	}
+	.chunho-ft1{
+		font-size: 12px;
+	}
+	.dangnhap, .dangky{
+		width: 100%;
+	}
+	.xuongdong-xs{
+		float: left;
+	    overflow: hidden;
+	    margin-top: 14px;
+	}
+	.h3-kn{
+		font-size: 17px;
+	    padding: 8px;
+	    line-height: 23px;
+	    font-family: "UTM";
+	    text-align: center;
+	}
+	.btn-tk{
+		margin-top: 10px;
+		width: 100%;
+	}
+	fieldset legend{
+		font-size: 14px; 
+	}
+	.promotel-price{
+		margin-bottom: 51px;
+	}
+	.promotel-title{
+		height: auto;
+	}
+	.no-margin{
+		margin-bottom: 40px;
+	}
+	.timtrokhoa{
+		padding: 0;
+	}
+	.col-khoa h5{
+		font-size: 17px;
+	}
+	.nd-mt{
+		 font-size: 10px;
+	}
+	.nhieuanh .anhSP {
+    	width: 133px;
+    	height: 107px;
+	}
+}
+@media screen and (max-width: 767px){
+ 	
+}
+@media screen and (max-width: 480px){
+
+}
+@media screen and (max-width: 375px){
+ 
+}
+@media screen and (max-width: 360px){
+ 
+}
